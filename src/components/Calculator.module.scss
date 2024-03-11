@@ -1,0 +1,29 @@
+.container {
+  box-shadow: 1.5px 0.2px 1.9px rgba(0, 0, 0, 0.041),
+    3.6px 0.5px 4.3px rgba(0, 0, 0, 0.06),
+    6.4px 0.9px 7.7px rgba(0, 0, 0, 0.074),
+    10.6px 1.4px 12.8px rgba(0, 0, 0, 0.086),
+    17.5px 2.4px 21.2px rgba(0, 0, 0, 0.1),
+    30.5px 4.2px 37px rgba(0, 0, 0, 0.119), 66px 9px 80px rgba(0, 0, 0, 0.16);
+  height: 300px;
+    // padding-left: 300px;
+    margin-block: auto;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+}
+.input:hover {
+  background-attachment: fixed;
+  border-radius: 9px;
+  transform: translate(0.9);
+  transition: 1s;
+}
+.p {
+  font-size: 19px;
+}
+.button {
+  width: 56px;
+  height: 28px;
+}
